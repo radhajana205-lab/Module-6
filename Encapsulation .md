@@ -1,6 +1,6 @@
 # 🐍 Python OOP: Encapsulation with Private Members
-## NAME: MONISHA P
-## REF NO: 25018486
+## NAME: JANARTHANI R
+## REF NO: 25017541
 ## 🎯 AIM
 
 To implement **Encapsulation** in Python by defining a class `Rectangle` with **private member variables** `__length` and `__breadth`.
